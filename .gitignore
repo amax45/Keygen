@@ -3,3 +3,4 @@
 *.txt
 docs
 /target/
+*/resources/
