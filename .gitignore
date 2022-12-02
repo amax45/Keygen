@@ -1,6 +1,5 @@
 .idea
 *.iml
-*.txt
 docs
-/target/
+/target
 */resources/
